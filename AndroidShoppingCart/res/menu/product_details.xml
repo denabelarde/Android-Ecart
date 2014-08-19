@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.shoppingcart.android.ProductDetails" >
+
+    <item
+        android:id="@+id/addtocart_action"
+        android:showAsAction="always"
+        android:title="Add to Cart"/>
+
+</menu>

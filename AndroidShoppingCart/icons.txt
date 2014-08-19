@@ -1,0 +1,10 @@
+http://fortawesome.github.io/Font-Awesome/icon/car/
+
+http://fortawesome.github.io/Font-Awesome/icon/desktop/
+
+
+http://fortawesome.github.io/Font-Awesome/icon/mobile/
+
+http://fortawesome.github.io/Font-Awesome/icon/android/
+
+http://fortawesome.github.io/Font-Awesome/icon/apple/

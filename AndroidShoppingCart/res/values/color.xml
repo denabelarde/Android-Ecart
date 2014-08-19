@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Zxing Colors -->
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color>
+    <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color>
+    <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color>
+    <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+
+    <!-- Flat UI -->
+    <color name="Black">#000000</color>
+    <color name="Black50">#80000000</color>
+    <color name="Black80">#CC000000</color>
+    <color name="Black90">#E6000000</color>
+    <color name="MediumBlack">#80000000</color>
+    <color name="White">#FFFFFF</color>
+    <color name="White80">#CCFFFFFF</color>
+    <color name="White20">#33FFFFFF</color>
+    <color name="White50">#80FFFFFF</color>
+    <color name="DarkGray">#353535</color>
+    <color name="LightGray">#73353535</color>
+    <color name="LightGray10">#1A353535</color>
+    <color name="Turquoise">#1ABC9C</color>
+    <color name="GreenSea">#16A085</color>
+    <color name="Emerald">#2ECC71</color>
+    <color name="Nephritis">#27AE60</color>
+    <color name="PeterRiver">#3498DB</color>
+    <color name="BelizeHole">#2980B9</color>
+    <color name="Amethyst">#9B59B6</color>
+    <color name="Wisteria">#8E44AD</color>
+    <color name="WetAsphalt">#34495E</color>
+    <color name="MidnightBlue">#2C3E50</color>
+    <color name="SunFlower">#F1C40F</color>
+    <color name="Orange">#F39C12</color>
+    <color name="Carrot">#E67E22</color>
+    <color name="Pumpkin">#D35400</color>
+    <color name="Alizarin">#E74C3C</color>
+    <color name="LightGrey">#D3D3D3</color>
+    <color name="Pomegranate">#C0392B</color>
+    <color name="Clouds">#ECF0F1</color>
+    <color name="Silver">#BDC3C7</color>
+    <color name="Concrete">#95A5A6</color>
+    <color name="Asbestos">#7F8C8D</color>
+
+    <!-- MERCHNDISER BACKGROUND COLORS -->
+
+    <color name="MRCHNDSR_MENU">#FF171717</color>
+    <color name="MRCHNDSR_ACTIONBAR">#FF323232</color>
+    <color name="MRCHNDSR_SUBMIT">#CCC21A21</color>
+    <color name="MRCHNDSR_SUBMIT_ONCLICK">#E6C21A21</color>
+    <color name="MRCHNDSR_CAMERA">#CC4CEE80</color>
+    <color name="MRCHNDSR_LISTVIEW1">#CCFFFFFF</color>
+    <color name="MRCHNDSR_LISTVIEW2">#E6FFFFFF</color>
+
+    <!-- MERCHNDISER TEXT COLORS -->
+    <color name="MRCHNDSR_FORMSLIST">#80e5e5e5</color>
+    <color name="MRCHNDSR_DARKTEXT">#FF222222</color>
+    <color name="MRCHNDSR_DARKSUBTEXT">#FF717171</color>
+    <color name="MRCHNDSR_LIGHTTEXT">#CCFFFFFF</color>
+    <color name="MRCHNDSR_LIGHTSUBTEXT">#B3FFFFFF</color>
+    <color name="MRCHNDSR_LIGHTSUBTEXT30">#4DFFFFFF</color>
+    <color name="MRCHNDSR_LIGHTSUBTEXT10">#1AFFFFFF</color>
+    <color name="MRCHNDSR_LIGHTSUBTEXT20">#33FFFFFF</color>
+    <color name="MRCHNDSR_FORGOTPASS">#CCFFFFFF</color>
+
+    <!-- MERCHNDISER BACKGROUND COLORS -->
+    <color name="MRCHNDSR_START">#FF222222</color>
+    <color name="MRCHNDSR_END">#FF171717</color>
+
+    <!-- MERCHNDISER FINAL -->
+    <color name="MRCHNDSR_HEADER">#FF1F1F21</color>
+    <color name="MRCHNDSR_BG">#F7F7F7</color>
+    <color name="MRCHNDSR_BG75">#BFF7F7F7</color>
+    <color name="MRCHNDSR_ORANGE">#FFFF9500</color>
+    <color name="MRCHNDSR_DARK_ORANGE">#ea850d</color>
+    <color name="MRCHNDSR_DARK_ORANGE80">#ccea850d</color>
+    <color name="MRCHNDSER_DARKBG">#e4e4e4</color>
+    <color name="MRCHNDSR_TEXT">#CC1F1F21</color>
+    <color name="MRCHNDSR_SUBTEXT">#991F1F21</color>
+    <color name="MRCHNDSR_HEADERTEXT">#CCFFFFFF</color>
+    <color name="MRCHNDSR_YELLOW80">#CC0BD318</color>
+    <color name="MRCHNDSR_RED80">#CCFF5E3A</color>
+    <color name="MRCHNDSR_LINE">#331F1F21</color>
+    <color name="MRCHNDSR_LOGIN">#800C5DA5</color>
+    <color name="MRCHNDSR_LOGIN_ONCLICK">#BF0C5DA5</color>
+    <color name="MRCHNDSR_SL">#CC8EA6D5</color>
+    <color name="MRCHNDSR_SM">#CCA9D459</color>
+    <color name="MRCHNDSR_C">#CC50D9F9</color>
+    <color name="MRCHNDSR_P">#CCF98131</color>
+    <color name="MRCHNDSR_S">#F16E4E</color>
+    <color name="MRCHNDSR_STOREITEM">#DBDDDE</color>
+    <color name="MRCHNDSR_STOREITEM80">#CCDBDDDE</color>
+    <color name="MRCHNDSR_STOREITEM10">#1ADBDDDE</color>
+    <color name="MRCHNDSR_QUEUEITEM">#DBDDDE</color>
+    <color name="MRCHNDSR_QUEUEITEMTEXT">#DBDDDE</color>
+    <color name="lightblue_link">#3366BB</color>
+    <color name="blue_link">#0645AD</color>
+    <color name="darkblue_link">#0B0080</color>
+
+    <!-- BARCHART COLOR -->
+    <color name="barchart_green">#669900</color>
+    <color name="barchart_orange">#FFBB33</color>
+    <color name="MRCHNDSR_QUESTIONAIREBG">#C8C8C8</color>
+
+    <!-- USED COLOR -->
+    <color name="RedOrange">#FF6600</color>
+    <color name="MRCHNDSR_ORANGE90">#E6FF9500</color>
+    <color name="MRCHNDSR_ORANGE50">#80FF9500</color>
+    <color name="MRCHNDSR_ORANGE60">#99FF9500</color>
+    <color name="MRCHNDSR_ORANGE80">#CCFF9500</color>
+    <color name="Red">#FF0000</color>
+    <color name="shopperapp_blue">#007aff</color>
+ <color name="splash_bg">#464646</color>
+</resources>

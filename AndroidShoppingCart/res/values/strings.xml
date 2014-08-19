@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">E-Cart</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mycart">My Cart</string>
+    <string name="title_activity_products">Products</string>
+    <string name="price_string">Price:</string>
+    <string name="currency_string">PHP</string>
+    <string name="search_categories">Search Categories</string>
+    <string name="search_products">Search Products</string>
+    <string name="view_cart">View Cart</string>
+    <string name="title_activity_product_details">Product Details</string>
+    <string name="button_no">No</string>
+    <string name="button_yes">Yes</string>
+
+</resources>
